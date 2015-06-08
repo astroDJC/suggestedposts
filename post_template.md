@@ -2,8 +2,8 @@
 
 ### Resources 
 
-* Article 1: [Journal Article Title](http://somewebpage.com)
-* Article 2: [Essay by Dr. Astronomer](http://someotherwebpage.com)
+* Resource 1: [Journal Article Title](http://somewebpage.com)
+* Resource 2: [Essay by Dr. Astronomer](http://someotherwebpage.com)
 
 ### Discussion Questions
 
@@ -14,3 +14,7 @@
 
 * Women in STEM
 * Microaggressions
+
+### Author
+
+[Your name](http://yourpreferredURL.com)
