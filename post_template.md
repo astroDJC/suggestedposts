@@ -1,20 +1,27 @@
-# Post title
+# The "Matilda Effect" and the "Genius Effect"
+***The Matilda Effect*** - The denial of women's contribution in scientific research. Leise Meitner's Nobel snub, Jocelyn Bell Burnell's Nobel snub, "Pickering's Harem", female computers.
+
+***The Genius Effect*** - the idea that some fields require "natural ability" for success
 
 ### Resources 
 
-* Resource 1: [Journal Article Title](http://somewebpage.com)
-* Resource 2: [Essay by Dr. Astronomer](http://someotherwebpage.com)
+* Resource 1: [The Matilda Effect in Science Communication: An Experiment on Gender Bias in Publication Quality Perceptions and Collaboration Interest](http://scx.sagepub.com/content/35/5/603.full.pdf)
+* Resource 2: [Expectations of brilliance underlie gender distributions across academic disciplines](http://www.sciencemag.org/content/347/6219/262.full)
 
 ### Discussion Questions
 
-* Sample discussion question?
-* Another sample discussion question?
+* Have people assumed certain characteristics/behavior/roles of you that are "gendered"?
+* Do you think this has an affect in the astronomical community on say, citation counts? Is being aware of the bias enough to combat it?
+* Can you think of other things that are important to success other than "natural ability"?
+* Can you think of ways to introduce material in your Astro 101 labs that could demphasize the need for ability to succeed?
+* Can fictional geniuses hold back real people?
 
 ### Related Topics
 
-* Women in STEM
-* Microaggressions
+* The Matthew Effect
+* [Gendered Language in Teaching Reviews](http://benschmidt.org/profGender/)
 
 ### Author
 
-[Your name](http://yourpreferredURL.com)
+[Nell Byler](http://staff.washington.edu/ebyler)
+[Russell Deitrick](https://depts.washington.edu/astrobio/drupal/profiles/russell-deitrick)
