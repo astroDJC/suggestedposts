@@ -2,8 +2,8 @@
 
 ### Resources 
 
-Article 1: [Journal Article Title](http://somewebpage.com)
-Article 2: [Essay by Dr. Astronomer](http://someotherwebpage.com)
+* Article 1: [Journal Article Title](http://somewebpage.com)
+* Article 2: [Essay by Dr. Astronomer](http://someotherwebpage.com)
 
 ### Discussion Questions
 
