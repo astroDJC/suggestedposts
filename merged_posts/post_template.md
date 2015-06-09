@@ -1,5 +1,7 @@
 # Post title
 
+#### Contributed by [Your name](http://yourpreferredURL.com)
+
 ### Resources 
 
 * Resource 1: [Journal Article Title](http://somewebpage.com)
@@ -15,6 +17,3 @@
 * Women in STEM
 * Microaggressions
 
-### Author
-
-[Your name](http://yourpreferredURL.com)
