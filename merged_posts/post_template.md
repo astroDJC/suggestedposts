@@ -10,7 +10,7 @@
 * Sample discussion question?
 * Another sample discussion question?
 
-### Related Topics
+### Related Topics, suggested tags
 
 * Women in STEM
 * Microaggressions
