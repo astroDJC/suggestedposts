@@ -24,4 +24,5 @@ racism, sexism, ethics, news and current events, social media,
 hiring and promotion, LGBT+, academic culture, department climate, 
 science education, science workforce, gender and science, women in science, 
 public perception of scientists, psychology of communication, 
-culture and science, discrimination, PoC, WoC
+culture and science, discrimination, PoC, WoC, ableism, mental health,
+language discrimination
